@@ -71,6 +71,10 @@ tbody:hover {
     background-color: #ffffff;
 }
 
+div>p {
+    color: #ffffff;
+}
+
 #special-note {
     font-size: 1.2em;
     color: #e74c3c;
